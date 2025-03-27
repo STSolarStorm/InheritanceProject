@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Relic
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Relics\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=itemName\ itemType\ description\ age\ value
+comment1.target=Relic(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=Relic()
+comment3.params=
+comment3.target=int\ returnAge()
+comment4.params=
+comment4.target=int\ returnValue()
+numComments=5

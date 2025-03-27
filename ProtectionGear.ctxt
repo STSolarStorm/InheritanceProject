@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ProtectionGear
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ProtectionGear\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=itemName\ itemType\ description\ protectionType\ rankOfProtGear\ durability
+comment1.target=ProtectionGear(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=ProtectionGear()
+comment3.params=
+comment3.target=java.lang.String\ getTypeOfProtection()
+comment4.params=
+comment4.target=boolean\ blocked()
+numComments=5

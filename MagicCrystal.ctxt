@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MagicCrystal
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MagicCrystal\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=itemName\ itemType\ description\ value\ age\ color\ glow\ magicalProperty\ usage
+comment1.target=MagicCrystal(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ boolean,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=MagicCrystal()
+comment3.params=
+comment3.target=java.lang.String\ returnColor()
+comment4.params=
+comment4.target=boolean\ returnIfGlow()
+comment5.params=
+comment5.target=java.lang.String\ returnMagicalProperty()
+comment6.params=
+comment6.target=java.lang.String\ returnAverageUse()
+numComments=7

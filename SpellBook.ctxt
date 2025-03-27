@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SpellBook
+comment1.params=itemName\ itemType\ description\ value\ age\ magicSpell
+comment1.target=SpellBook(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=SpellBook()
+comment3.params=newSpell
+comment3.target=void\ addSpell(java.lang.String)
+comment4.params=index
+comment4.target=void\ removeSpell(int)
+comment5.params=
+comment5.target=void\ displaySpells()
+numComments=6

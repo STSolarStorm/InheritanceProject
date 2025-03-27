@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Character\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=firstName\ lastName\ title\ sex\ birthday\ age\ heightInCentimeters\ characterClass\ race
+comment1.target=Character(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Character()
+numComments=3

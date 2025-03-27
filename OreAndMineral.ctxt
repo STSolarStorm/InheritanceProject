@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=OreAndMineral
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OreAndMineral\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=itemName\ itemType\ description\ ore\ value\ onPerson
+comment1.target=OreAndMineral(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=OreAndMineral()
+comment3.params=
+comment3.target=java.lang.String\ getOre()
+comment4.params=
+comment4.target=int\ getValue()
+comment5.params=
+comment5.target=int\ getNumberOfOreHeld()
+numComments=6

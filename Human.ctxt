@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Human
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Human\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=firstName\ lastName\ sex\ birthday\ age\ heightInCentimeters\ characterClass\ race\ subRace\ hasMagic\ isHybrid\ ability
+comment1.target=Human(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=Human()
+comment3.params=
+comment3.target=java.lang.String\ humanRace()
+comment4.params=
+comment4.target=boolean\ doesHaveMagic()
+comment5.params=
+comment5.target=boolean\ isAHybrid()
+comment6.params=
+comment6.target=java.lang.String\ returnAbility()
+numComments=7
