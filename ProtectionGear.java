@@ -30,7 +30,7 @@ public class ProtectionGear extends Item implements DefenseCommands
     
     public boolean blocked(){
         int randomNum = (int)(Math.random() * 10 + 1);
-        if(randomNum >= 2){
+        if(randomNum > 1){
             return true;
         }
         return false;

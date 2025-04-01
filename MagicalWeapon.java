@@ -38,15 +38,15 @@ public class MagicalWeapon extends Weapon
     public int attack(){
         int randomNum = (int)(Math.random() * 10 + 1);
         if(randomNum >= 5){
-            return 0;
+            return magicalWeaponDamage;
         }
         
-        return magicalWeaponDamage;
+        return 0;
     }
     
     public boolean parry(){
         int randomNum = (int)(Math.random() * 10 + 1);
-        if(randomNum >= 4){
+        if(randomNum >= 6){
             return true;
         }
         return false;

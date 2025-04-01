@@ -10,9 +10,9 @@ public class Demon extends Character
     String subRace;
     String ability;
     
-    public Demon(String firstName, String lastName, String sex, String birthday, int age, int heightInCentimeters,
+    public Demon(String firstName, String lastName, String title,  String sex, String birthday, int age, int heightInCentimeters,
     String characterClass, String race, String subRace, String ability){
-        super(firstName, lastName, sex, birthday, age, heightInCentimeters, characterClass, race);
+        super(firstName, lastName, title, sex, birthday, age, heightInCentimeters, characterClass, race);
         this.ability = ability;
     }
     public Demon(){

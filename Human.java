@@ -12,9 +12,9 @@ public class Human extends Character
     boolean isHybrid;
     String ability;
     
-    public Human(String firstName, String lastName, String sex, String birthday, int age, int heightInCentimeters,
+    public Human(String firstName, String lastName, String title, String sex, String birthday, int age, int heightInCentimeters,
     String characterClass, String race, String subRace, boolean hasMagic, boolean isHybrid, String ability){
-        super(firstName, lastName, sex, birthday, age, heightInCentimeters, characterClass, race);
+        super(firstName, lastName, title, sex, birthday, age, heightInCentimeters, characterClass, race);
         this.subRace = subRace;
         this.hasMagic = hasMagic;
         this.isHybrid = isHybrid;

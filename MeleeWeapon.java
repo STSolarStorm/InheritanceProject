@@ -37,15 +37,15 @@ public class MeleeWeapon extends Weapon
     public int attack(){
         int randomNum = (int)(Math.random() * 10 + 1);
         if(randomNum >= 2){
-            return 0;
+            return damage;
         }
         
-        return damage;
+        return 0;
     }
 
     public boolean parry(){
         int randomNum = (int)(Math.random() * 10 + 1);
-        if(randomNum >= 5){
+        if(randomNum >= 3){
             return true;
         }
         return false;
